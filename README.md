@@ -14,10 +14,11 @@ Postup tvorby – Prompty AI
 
 
 Používal jsem Microsoft Copilota
-    Využíval
-        -HTML
-        -CSS (Kaskádové styly)
-        -Obrázky
-        -Ikony
-        -Barvy
-        -Typografie
+Použité technologie
+    - HTML5 – struktura webových stránek (nadpisy, sekce, navigace, formuláře)
+    - CSS3 – kaskádové styly pro vzhled (barvy, typografie, layout, responzivní design)
+    - AI generování textu – obsah a popisy byly připraveny pomocí promptů pro AI
+    - AI generování kódu – AI navrhla základní HTML a CSS kostru
+    - Obrázky – ilustrační fotografie z [picsum.photos](https://picsum.photos)
+    - Responzivní design – CSS media queries pro mobilní zařízení
+    - Ikony a efekty – CSS pseudo-elementy (✔, ⚙) a animace při najetí myší
