@@ -13,6 +13,7 @@ Postup tvorby – Prompty AI
     5. Dokumentace: Doplněna tato sekce, která vysvětluje postup tvorby.
 
 
+Používal jsem Microsoft Copilota
     Využíval
         -HTML
         -CSS (Kaskádové styly)
