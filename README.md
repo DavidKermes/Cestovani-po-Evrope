@@ -1,4 +1,4 @@
-# Cestovani-po-Evrope
+# AI Cestovani-po-Evrope
 
 Postup tvorby – Prompty AI
       
